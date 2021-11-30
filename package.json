@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "scripts": {"start": "node bot.js"},
+  "version": "1.6.10",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fstorm": "latest",
+    "jimp": "^0.16.1",
+    "libsodium-wrappers": "latest",
+    "node-cron": "^3.0.0",
+    "opusscript": "latest",
+    "replace-string": "^3.1.0",
+    "request": "^2.88.2",
+    "rn": "0.0.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "latest"
+  },
+  "is-music-bot": true
+}
